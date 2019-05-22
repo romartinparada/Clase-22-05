@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin&display=swap');
+
+h1, h2, h3{
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 400; /*lo incerto basandome en lo que sale en la fuente*/
+}
+
+h1{
+  text-shadow: 1px 1px 1px black;
+}
+
+/* sacado de la parte copiada del mapa en htmn y reorganizado*/
+div#mapid{
+  width: 100%;
+  height: 50vh;
+}
+
+div#minito{
+  width: 100%;
+  height:50vh;
+  background:silver;
+}
